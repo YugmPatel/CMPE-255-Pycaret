@@ -12,7 +12,7 @@ Below is a list of all Colab notebooks included in this project, with a brief de
 
 | **Notebook** | **Description** | **Colab Link** | 
 |--------------|------------------|----------------|
-| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Colab Link](link_to_colab1) |
+| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Colab Link](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) |
 | `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Colab Link](link_to_colab2) |
 | `3_regression.ipynb` | Regression task using PyCaret (e.g., Linear Regression, Random Forest). | [Colab Link](link_to_colab3) |
 | `4_clustering.ipynb` | Clustering task using PyCaret (e.g., K-Means, Hierarchical Clustering). | [Colab Link](link_to_colab4) |
