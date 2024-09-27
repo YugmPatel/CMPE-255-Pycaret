@@ -12,15 +12,15 @@ Below is a list of all Colab notebooks included in this project, with a brief de
 
 | **Notebook** | **Description** | **Colab Link** | 
 |--------------|------------------|----------------|
-| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Colab Link](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) |
-| `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Colab Link](link_to_colab2) |
-| `3_regression.ipynb` | Regression task using PyCaret (e.g., Linear Regression, Random Forest). | [Colab Link](link_to_colab3) |
-| `4_clustering.ipynb` | Clustering task using PyCaret (e.g., K-Means, Hierarchical Clustering). | [Colab Link](link_to_colab4) |
-| `5_anomaly_detection.ipynb` | Anomaly detection using PyCaret's anomaly detection module. | [Colab Link](link_to_colab5) |
-| `6_association_rule_mining.ipynb` | Association rule mining task using PyCaret to uncover relationships between variables. | [Colab Link](link_to_colab6) |
-| `7_time_series_forecasting.ipynb` | Time series forecasting using PyCaret's time series module. | [Colab Link](link_to_colab7) |
-| `8_gradio_bike.ipynb` | Time series forecasting using PyCaret's time series module. | [Colab Link](link_to_colab7) |
-| `9_gradio_something.ipynb` | Time series forecasting using PyCaret's time series module. | [Colab Link](link_to_colab7) |
+| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Binary](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) |
+| `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Multiclass](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb) |
+| `3_regression.ipynb` | Regression task using PyCaret (e.g., Linear Regression, Random Forest). | [Regression](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynb) |
+| `4_clustering.ipynb` | Clustering task using PyCaret (e.g., K-Means, Hierarchical Clustering). | [Clustering](link_to_colab4) |
+| `5_anomaly_detection.ipynb` | Anomaly detection using PyCaret's anomaly detection module. | [Anomaly Detection](link_to_colab5) |
+| `6_association_rule_mining.ipynb` | Association rule mining task using PyCaret to uncover relationships between variables. | [Association Rule Mining](link_to_colab6) |
+| `7_time_series_forecasting.ipynb` | Time series forecasting using PyCaret's time series module. | [Time Series Forecasting](link_to_colab7) |
+| `8_gradio_bike.ipynb` | Time series forecasting using PyCaret's time series module. | [Gradio](link_to_colab7) |
+| `9_gradio_something.ipynb` | Time series forecasting using PyCaret's time series module. | [Gradio](link_to_colab7) |
 
 ## **How to Run the Notebooks**
 
