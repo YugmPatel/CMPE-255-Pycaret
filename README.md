@@ -2,7 +2,7 @@
 ## Tasks:
 
 a) Classification
-Binary Classification: https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ip
+Binary Classification: https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ip <br/>
 Multiclass Classification: 
 Regression - Level
 https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynbLinks to an external site.
