@@ -2,12 +2,8 @@
 ## Tasks:
 
 a) Classification
-Binary Classification - Level
-​Links to an external site.
-https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynbLinks to an external site.
-Multiclass Classification - Level
-https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynbLinks to an external site.
-​Links to an external site.
+Binary Classification: https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ip
+Multiclass Classification: 
 Regression - Level
 https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynbLinks to an external site.
 https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynbLinks to an external site.
