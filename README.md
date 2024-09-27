@@ -10,8 +10,8 @@ Each Colab notebook is accompanied by a brief video tutorial that explains the t
 
 Below is a list of all Colab notebooks included in this project, with a brief description of each task.
 
-| **Notebook** | **Description** | **Colab Link** | **Video Tutorial** |
-|--------------|------------------|----------------|--------------------|
+| **Notebook** | **Description** | **Colab Link** | 
+|--------------|------------------|----------------|
 | `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Colab Link](link_to_colab1) |
 | `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Colab Link](link_to_colab2) |
 | `3_regression.ipynb` | Regression task using PyCaret (e.g., Linear Regression, Random Forest). | [Colab Link](link_to_colab3) |
