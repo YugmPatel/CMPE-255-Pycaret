@@ -12,8 +12,8 @@ Below is a list of all Colab notebooks included in this project, with a brief de
 
 | **Notebook** | **Description** | **Colab Link** | 
 |--------------|------------------|----------------|
-| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Binary](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) |
-| `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Multiclass](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb) |
+| `1_binary_classification.ipynb` | Binary classification task using PyCaret (e.g., Logistic Regression, Decision Trees). | [Binary Classification](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) |
+| `2_multiclass_classification.ipynb` | Multiclass classification task using PyCaret (e.g., Decision Trees, SVM). | [Multiclass Classification](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb) |
 | `3_regression.ipynb` | Regression task using PyCaret (e.g., Linear Regression, Random Forest). | [Regression](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Regression.ipynb) |
 | `4_clustering.ipynb` | Clustering task using PyCaret (e.g., K-Means, Hierarchical Clustering). | [Clustering](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Clustering.ipynb) |
 | `5_anomaly_detection.ipynb` | Anomaly detection using PyCaret's anomaly detection module. | [Anomaly Detection](https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Anomaly%20Detection.ipynb) |
@@ -28,14 +28,14 @@ Below is a list of all Colab notebooks included in this project, with a brief de
 
 ## **Youtube Video Link**
 
-Binary Classification: https://youtu.be/S4DQ6o7W0cw
-Multiclass Classification: https://youtu.be/RIgLHsrUDOs
-Regression: https://youtu.be/lLJ20Q4ARWU
-Clustering: https://youtu.be/5TZAEiQXBS8
-Anomaly Detection: https://youtu.be/NnirQeBXPZk
-Association Rule Mining: https://youtu.be/N71xt_8swe4
-Time Series Forecasting: https://youtu.be/i_x0NXisQVE
-Time Series Forescasting without exogeneous: https://youtu.be/MnlYyNls8-w
-Time Series Forecasting with exogeneous: https://youtu.be/EobZgn45WfU
-Gradio of bike: https://youtu.be/OOD7dYL_vPA
-Gradio of Insurance: https://youtu.be/jjMEy2Uqz5w
+Binary Classification: https://youtu.be/S4DQ6o7W0cw  <br/>
+Multiclass Classification: https://youtu.be/RIgLHsrUDOs <br/>
+Regression: https://youtu.be/lLJ20Q4ARWU <br/>
+Clustering: https://youtu.be/5TZAEiQXBS8 <br/>
+Anomaly Detection: https://youtu.be/NnirQeBXPZk <br/>
+Association Rule Mining: https://youtu.be/N71xt_8swe4 <br/>
+Time Series Forecasting: https://youtu.be/i_x0NXisQVE <br/>
+Time Series Forescasting without exogeneous: https://youtu.be/MnlYyNls8-w <br/>
+Time Series Forecasting with exogeneous: https://youtu.be/EobZgn45WfU <br/>
+Gradio of bike: https://youtu.be/OOD7dYL_vPA <br/>
+Gradio of Insurance: https://youtu.be/jjMEy2Uqz5w <br/>
